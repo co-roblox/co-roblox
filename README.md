@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<!-- I have created this resporatory for my battel royale game!-->
+<!-- I have created this repository for my battel royale game!-->
